@@ -27,7 +27,7 @@ Course Repository SI7003 Natural Language Processing at Universidad EAFIT
 ## Evaluation
 | **Event** | Topic  |
 | -------------- | -------------------------------- |
-| **Homework 1 ( 15%)** | XXX |
+| **Homework 1 ( 15%)** | [Modelo de lenguaje n-gram](Lecture02/hw1.ipynb) |
 | **Homework 2 ( 15%)** | XXX |
 | **Homework 3 ( 15%)** | XXX |
 | **Homework 4 ( 15%)** | XXX |
