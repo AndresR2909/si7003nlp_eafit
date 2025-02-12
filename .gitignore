@@ -1,3 +1,4 @@
 /Working/*
 /datasets/metadata.csv.zip
 *.csv
+.venv
