@@ -1,5 +1,6 @@
 # SI7003 NLP lecture02
 
+<<<<<<< HEAD
 
 Para calcular las probabilidades \( P(\theta_1 \mid \text{"computer"}) \) y \( P(\theta_2 \mid \text{"computer"}) \), utilizamos el teorema de Bayes:
 
@@ -43,4 +44,9 @@ P(\theta_2 \mid \text{"computer"}) = \frac{P(\text{"computer"} \mid \theta_2) P(
 - \( P(\theta_2 \mid \text{"computer"}) = 0.8 \)
 
 La respuesta correcta es \( 0.2 \) y \( 0.8 \).
+=======
+# enunciado de la tarea 1: 
+
+[Homework 1 - Modelo de lenguaje n-gram](hw1.ipynb)
+>>>>>>> cb5e562091607f3067221a9852fa237873656e32
 
