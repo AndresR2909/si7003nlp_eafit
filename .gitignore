@@ -1,2 +1,6 @@
 /Working/*
 /datasets/metadata.csv.zip
+.env
+Lecture04/notebooks/results_2/*
+Lecture04/notebooks/results_4/*
+Lecture04/notebooks/results_8/*
