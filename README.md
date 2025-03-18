@@ -43,5 +43,9 @@ Course Repository SI7003 Natural Language Processing at Universidad EAFIT
 ## Lectures
   
 - [Lecture01 - Introduction to NLP](/Lecture01/)
+- [Lecture02 - N-gram LM](/Lecture02/)
+- [Lecture07 - NLP Apps & RAG](/Lecture07/)
+- [Lecture08 - Agents AI](/Lecture08/)
+
 
 
